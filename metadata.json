@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Pages App Collection",
+  "description": "A web application that showcases a collection of deployed web apps from a user's GitHub repositories with GitHub Pages.",
+  "requestFramePermissions": []
+}
